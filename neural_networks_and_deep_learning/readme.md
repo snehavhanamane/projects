@@ -20,7 +20,7 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 - **Overall Test Accuracy**: 76.8%
 - **Per-Class Accuracies**:
   - Highest: `Truck` (86%)
-  - Lowest: `Cat` and `Dog` classes
+
 
 ## Requirements
 - Python 3.8+
