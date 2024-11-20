@@ -44,10 +44,15 @@ jupyter notebook cifar10_analysis.ipynb
 
 ##Project Structure
 README.md: Project documentation.
+
 requirements.txt: Python dependencies.
+
 train.py: Main script for training and evaluation.
+
 cifar10_analysis.ipynb: Notebook for visualizing results and predictions.
+
 models/: Contains model architecture files.
+
 data/: Directory for dataset (downloaded automatically via torchvision).
 
 ##Dataset
