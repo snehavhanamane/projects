@@ -31,18 +31,18 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
    
    git clone https://github.com/username/cifar10-classification.git
 
-##Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
-##Train and evaluate the model:
+## Train and evaluate the model:
 
 python train.py
 (Optional) Visualize results in Jupyter Notebook:
 
 jupyter notebook cifar10_analysis.ipynb
 
-##Project Structure
+## Project Structure
 README.md: Project documentation.
 
 requirements.txt: Python dependencies.
@@ -55,7 +55,7 @@ models/: Contains model architecture files.
 
 data/: Directory for dataset (downloaded automatically via torchvision).
 
-##Dataset
+## Dataset
 The CIFAR-10 dataset is a widely used benchmark dataset available via PyTorch's torchvision.datasets. It includes 60,000 images (32x32 pixels) in 10 classes:
 
 Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck
