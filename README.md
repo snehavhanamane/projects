@@ -19,7 +19,7 @@ requirement.txt: Lists the Python dependencies required to run the project.
 **Files**:
 ethereumA.ipynb to ethereumD.ipynb: Notebooks with specific analyses.
 ethereumD-gas-guzzlers.ipynb: Focused on high gas consumption trends.
-ethereumD-scamAnalysis.ipynb: Detecting and analyzing scam-related transactions.                                                                                        **Technologies**: Apache Spark, Python, Matplotlib.  
+ethereumD-scamAnalysis.ipynb: Detecting and analyzing scam-related transactions.                                                                                          **Technologies**: Apache Spark, Python, Matplotlib.    
 **Applications**: Fraud detection, blockchain insights, and performance analysis.
 
 ## 3. Digital Media and Social Networks
