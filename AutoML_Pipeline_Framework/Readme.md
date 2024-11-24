@@ -83,14 +83,3 @@ python dendrite_ai_assignment.py
 
 Scikit-learn: For providing robust tools for machine learning.
 XGBoost: For efficient and scalable boosting algorithms.
-Contributors: Your Name and Team
-makefile
-Copy code
-
-### requirements.txt
-
-```plaintext
-scikit-learn==1.3.1
-xgboost==1.7.6
-pandas==2.1.0
-numpy==1.25.2
