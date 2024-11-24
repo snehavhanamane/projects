@@ -5,11 +5,14 @@ Welcome to my portfolio repository! This repository contains a diverse collectio
 ### Repository Structure
 
 ## 1. AutoML Pipeline Framework
-**Description**: A framework to automate machine learning processes, including feature selection, model selection, and hyperparameter optimization.                  
+**Description**: A framework to automate machine learning processes, including feature selection, model selection, and hyperparameter optimization.
+                  
 **Files**:
 AutoML_Pipeline_Framework.py: Main Python script implementing the AutoML pipeline.
 /data: Contains sample data (iris.csv) and algorithm parameter files (algoparams_from_ui.json).
-requirement.txt: Lists the Python dependencies required to run the project.                                                                                  **Applications**: Streamlining model development for faster prototyping and deployment.
+requirement.txt: Lists the Python dependencies required to run the project.
+
+**Applications**: Streamlining model development for faster prototyping and deployment.
 
 ## 2. Big Data Science
 **Description**: Projects analyzing Ethereum blockchain data using big data tools. Includes in-depth exploration of transaction patterns, scam analysis, and "gas guzzlers."  
@@ -19,10 +22,11 @@ ethereumD-gas-guzzlers.ipynb: Focused on high gas consumption trends.
 ethereumD-scamAnalysis.ipynb: Detecting and analyzing scam-related transactions.                                                                                      **Technologies**: Apache Spark, Python, Matplotlib.                                                                                             **Applications**: Fraud detection, blockchain insights, and performance analysis.
 
 ## 3. Digital Media and Social Networks
+
 **Description**: Analysis of social media and digital networks, exploring interaction patterns, sentiment analysis, and report generation.
 **Files**:
 digital_media_and_social_networks.ipynb: Contains the code for data processing and analysis.
-Dmsn_project_report.docx and Dmsn_project_report.pdf: Detailed project documentation and results.
+Dmsn_project_report.docx and Dmsn_project_report.pdf: Detailed project documentation and results
 **Applications**: Social media monitoring, network analysis, and influencer identification.
 
 ## 4. Machine Learning
@@ -48,11 +52,11 @@ image_classification.ipynb: Contains the code for building and training CNN mode
 NNDL_CW_220798659.pdf: Comprehensive project report.
 **Technologies**: TensorFlow, PyTorch, Keras.
 **Applications**: Image recognition, medical imaging, and autonomous systems.
+
 ## How to Use the Repository
 Clone the Repository:
 
-
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/snehavhanamane/projects.git
 cd your-repo-name
 **Install Dependencies**: Navigate to the project folder and install the required dependencies using:
 
