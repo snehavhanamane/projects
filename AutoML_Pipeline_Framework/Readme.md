@@ -21,10 +21,9 @@ The AutoML Pipeline Framework simplifies machine learning workflows by automatin
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/automl-pipeline-framework.git AutoML_Pipeline_Framework
+   git clone https://github.com/snehavhanamane/projects.git 
    cd automl-pipeline-framework
 
-AutoML_Pipeline_Framework https://github.com/snehavhanamane/projects.git
 
 **Install the required Python packages**:
 
