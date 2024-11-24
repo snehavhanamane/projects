@@ -71,4 +71,4 @@ pip install -r requirement.txt
 For collaborations, questions, or feedback, feel free to reach out:
 
 Email: sneharv21@gmail.com
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/sneha-gadade-77971a255
