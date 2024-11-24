@@ -1,16 +1,16 @@
 
 ### Data Science and Machine Learning Projects Portfolio
-Welcome to my portfolio repository! This repository contains a diverse collection of projects showcasing my expertise in data science, machine learning, natural language processing, big data analysis, and neural networks. Each folder is organized with project-specific code, datasets, and relevant documentation for easy navigation.
+Welcome to my portfolio repository! This repository contains a diverse collection of projects showcasing my expertise in data science, machine learning, natural language processing, big data analysis, and neural networks. Each folder is organized with project-specific code, datasets, and relevant documentation for easy navigation.  
 
 ### Repository Structure
 
 ## 1. AutoML Pipeline Framework
-**Description**: A framework to automate machine learning processes, including feature selection, model selection, and hyperparameter optimization.
+**Description**: A framework to automate machine learning processes, including feature selection, model selection, and hyperparameter optimization.  
                   
 **Files**:
 AutoML_Pipeline_Framework.py: Main Python script implementing the AutoML pipeline.
 /data: Contains sample data (iris.csv) and algorithm parameter files (algoparams_from_ui.json).
-requirement.txt: Lists the Python dependencies required to run the project.
+requirement.txt: Lists the Python dependencies required to run the project.  
 
 **Applications**: Streamlining model development for faster prototyping and deployment.
 
@@ -19,7 +19,8 @@ requirement.txt: Lists the Python dependencies required to run the project.
 **Files**:
 ethereumA.ipynb to ethereumD.ipynb: Notebooks with specific analyses.
 ethereumD-gas-guzzlers.ipynb: Focused on high gas consumption trends.
-ethereumD-scamAnalysis.ipynb: Detecting and analyzing scam-related transactions.                                                                                      **Technologies**: Apache Spark, Python, Matplotlib.                                                                                             **Applications**: Fraud detection, blockchain insights, and performance analysis.
+ethereumD-scamAnalysis.ipynb: Detecting and analyzing scam-related transactions.                                                                                        **Technologies**: Apache Spark, Python, Matplotlib.  
+**Applications**: Fraud detection, blockchain insights, and performance analysis.
 
 ## 3. Digital Media and Social Networks
 
