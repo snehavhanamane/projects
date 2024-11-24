@@ -38,7 +38,7 @@ Update the configuration: Modify algoparams_from_ui.json to define features, tar
 
 ### Run the pipeline:
 
-python dendrite_ai_assignment.py
+python AutoML_Pipeline_Framework.py
 Replace the csv_path and config_path variables in the script with the paths to your dataset and configuration files.
 
 ### Configuration Details
@@ -77,7 +77,7 @@ Modify algoparams_from_ui.json as follows:
 
 ### Run the script:
 
-python dendrite_ai_assignment.py
+python AutoML_Pipeline_Framework.py
 
 ### Acknowledgments
 
