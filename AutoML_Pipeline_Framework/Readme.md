@@ -26,28 +26,29 @@ The AutoML Pipeline Framework simplifies machine learning workflows by automatin
 
 
 
-Install the required Python packages:
+**Install the required Python packages**:
 
 pip install -r requirements.txt
 
 ### Usage
 
-Prepare your dataset: Ensure the dataset is in CSV format and matches the configurations in the JSON file.
+**Prepare your dataset**: Ensure the dataset is in CSV format and matches the configurations in the JSON file.
 
-Update the configuration: Modify algoparams_from_ui.json to define features, target variable, algorithms, and hyperparameter settings.
+**Update the configuration**: Modify algoparams_from_ui.json to define features, target variable, algorithms, and hyperparameter settings.
 
 ### Run the pipeline:
 
 python AutoML_Pipeline_Framework.py
+
 Replace the csv_path and config_path variables in the script with the paths to your dataset and configuration files.
 
 ### Configuration Details
 
 The configuration file (algoparams_from_ui.json) contains:
-Feature Handling: Imputation, scaling, interaction terms, etc.
-Algorithms: Enable or disable specific models and set their hyperparameters.
-Hyperparameter Tuning: Specify the grid search strategy and ranges.
-Feature Reduction: Methods like PCA or tree-based feature selection.
+**Feature Handling**: Imputation, scaling, interaction terms, etc.
+**Algorithms**: Enable or disable specific models and set their hyperparameters.
+**Hyperparameter Tuning**: Specify the grid search strategy and ranges.
+**Feature Reduction**: Methods like PCA or tree-based feature selection.
 
 ### Output
 
