@@ -28,14 +28,14 @@ jupyter notebook digital_media_and_social_networks.ipynb
 
 
 ## Project Structure:
-Dmsn_project_report.pdf: Detailed project report.
-digital_media_and_social_networks.ipynb: Analysis notebook.
-data/: Contains the dataset (not included due to size; link provided below).
+- Dmsn_project_report.pdf: Detailed project report.
+- digital_media_and_social_networks.ipynb: Analysis notebook.
+- data/: Contains the dataset (not included due to size; link provided below).
 
 ## Dataset:
 Reddit Hyperlink Network (137,821 cross-links between 35,766 subreddits).
 
 ## Results:
-Community Detection: Insights into the role of network design in meme propagation.
-SI Model Analysis: Visualized meme spread based on network centrality.
-Node Removal Impact: Effects of removing key nodes on meme spread.
+- Community Detection: Insights into the role of network design in meme propagation.
+- SI Model Analysis: Visualized meme spread based on network centrality.
+- Node Removal Impact: Effects of removing key nodes on meme spread.
