@@ -20,7 +20,7 @@ This project explores the dynamics of meme propagation on social media networks 
    git clone https://github.com/username/meme-spreading-analysis.git
 
 
-**Install dependencies:**
+## Install dependencies:
 pip install -r requirements.txt
 
 **Run the Jupyter notebook:**
